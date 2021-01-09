@@ -6,10 +6,6 @@
 package rockpaperscissors;
 
 /**
- * Name: Saahibdeep Dhaliwal 
- * Course Code: ICS 3U1 
- * Teacher: Mr. Wilkes
- * Date:October 14, 2020 
  * Program Description: This program creates a rock paper scissors game where 
  * the user can input their move and the program randomly generates the 
  * computer's move. The moves are compared and the result (win, loss, or tie) is 
