@@ -6,10 +6,6 @@
 package trivia;
 
 /**
- * Name: Saahibdeep Dhaliwal 
- * Course Code: ICS 3U1 
- * Teacher: Mr. Wilkes
- * Date:September 17, 2020 
  * Program Description: This program lets the answer several trivia
  * questions by inputting numbers into a dialog box and based on the user's 
  * input the program outputs a message
