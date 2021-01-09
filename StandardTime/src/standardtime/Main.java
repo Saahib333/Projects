@@ -5,14 +5,6 @@
  */
 package standardtime;
 
-/**
- * Name: Saahibdeep Dhaliwal 
- * Course Code: ICS 3U1 
- * Teacher: Mr. Wilkes
- * Date:October 14, 2020 
- * Program Description: This program uses methods to paint 
- */
-
 //Import toolkits
 import java.io.*;
 
