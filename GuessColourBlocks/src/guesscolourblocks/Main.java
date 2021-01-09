@@ -6,10 +6,6 @@
 package guesscolourblocks;
 
 /**
- * Name: Saahibdeep Dhaliwal 
- * Course Code: ICS 3U1 
- * Teacher: Mr. Wilkes
- * Date:October 15, 2020 
  * Program Description: This program hides three coloured blocks from the user
  * and lets the user guess the colour and order of the blocks. The program
  * outs put the users guesses and what the computer hid. Then the program
