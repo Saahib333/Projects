@@ -6,10 +6,6 @@
 package finalproject;
 
 /**
- * Name: Saahibdeep Dhaliwal 
- * Course Code: ICS 3U1 
- * Teacher: Mr. Wilkes
- * Date: October 27, 2020 
  * Program Description: This program aims to mimic the Black Jack experience whilst still providing a fun and enjoyable experience for the user.
  * This program provides menu options where the user can read the rules/instructions, start a game, or exit the program. Each choice has the consequence implied
  * by the name of the choice (for example, the option "start game", starts the game and etc.). Furthermore, once the game has started the user is able to bet from the 
